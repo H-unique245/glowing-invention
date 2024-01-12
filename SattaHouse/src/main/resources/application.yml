@@ -1,0 +1,10 @@
+
+amazonProperties:
+  endpointUrl: https://sattahouse.s3.ap-south-1.amazonaws.com
+  accessKey: AKIA6ODUZSLLRUQJ6KUH
+  secretKey: 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
+  bucketName: sattahouse
+
+
+server:
+  port: 9090
